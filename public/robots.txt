@@ -1,0 +1,5 @@
+# robots.txt for NexaPlay
+User-agent: *
+Allow: /
+
+Sitemap: https://nexaplay.fun/sitemap.xml
